@@ -1,1 +1,1 @@
-# python-individualtask1
+# This is my individual task for python homework from colab
